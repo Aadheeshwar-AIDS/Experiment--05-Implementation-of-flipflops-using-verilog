@@ -110,6 +110,9 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 4.end the program. */
 
+### Developed by:Aadheeshwar.A
+### Reg no:212221230001
+
 
 
 ### PROGRAM 1(T FLIP FLOP)
